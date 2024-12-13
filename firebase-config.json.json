@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "papeleria-el-ahorro-01",
+  "private_key_id": "2b92f0be8e27c41c1b3059670ccc12ea4ec858a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNkcOSMr34Yiaq\nPC4M/abhM43WDBf0HiZdBncPp5MCFVfPoSo9+DhAzYAjj5CCP07HyEcJGq+MdfCH\nZ883KHC/fVehrijER4gHyQGUwWSh3KHdBJ+74W5TrGvbFNDQ3TNiifKbC9v2x5+k\nzE+91pTEuMBM5p2BO0CNAapIpEhyz2ps2iicN8ZEaTqtiNyEaVgwXnU23HePAWRy\nFicRcybJWEUf81CgdvLyL6vY0SxKucr/nbR9pfoRSQHaMb5NOYeCmI7eZJjJle7M\nTQk597mPoWow8TRSAgI+Mp0Ug9P+CXF38YwcYCDFrg9dLwZ/ELFJdUtHLbqNVhPT\nG51e6IVlAgMBAAECggEALOlBnvkzA8b9x4dqUDBCe0T2IeN2gEDuBLja3jKwLW5Y\nRuZhAjTupUnASwScf7gxD/izfEu2OquxpwOJA/Xz3AIYWRxhj7BJCdpiXAt8XtiD\nDHRsKXHw1pr+3VhI3rjU9xxIQpNutRWbzTdN3J261te+O47OrmMxkRziBQjPQzWl\nBvIgxxlbzO0lUWvpTglt1Rym/9K0/WYu00Ju1VfcA0oSe+TXTrYNtzaRXnaf5K8c\ndonxyh9AQUiCs/d2nqvKy47iZR9m/lqFrDoHXzRKiWGJhAVbg9jivb3S5efvdGhH\nCZkMUj5lrTsS9x5LNfa4k80y+9PPtx0QeQtNT4CRQQKBgQD1MMzTyGlyWnq641uF\ne2R9Pj3XGdcIuKs7EF0yuEtvMr7t1RysXI0Z2+pXchTfXQ/PfymlKcfYwfD6lxx9\nKqmHW8/4ZdtfP0Keax2l4g71wRfJPVNOpxEUVKSa5f+NESqaWcpz6hQPD4XtOyHs\nOzE5SV8/Z7zHWaYgCuJ3ZeFuqQKBgQDWoc1Tzd4U3YGbq/lwvzwR3LwYuR2FJip1\nvNB7fHkLh8HlXTsRVrv2Gc5QDlbGF8U13fTSpKEL88A7GrU7BI2dQNJsIcCKyiDk\nn7KPV0WHYS9I9Mf+dov4fF8wNWdAhKxJaAeXlVZVX+Rm5PzcrubBAuEb1rzNrIoX\nN7BKpbYCXQKBgHGBhODp3z7L+hL4W48An3WHUdN5J93mt4YhPjPTs0AoCtFJHfwA\n4GU/NE4FBvqcN0yEfr/yBo0mwysOt2aOUGrUKwPAC30daPazeccoTmqgWCWWGTHJ\nD5QM1yLKJLKmZsWLmbhtfZm3QvWesUaN5Gyztb9Bg9f5fXlJ8Kr7ZA/5AoGBAKPD\n31wjR2FaRetWw8PwVlA2wVqH3Gtc3KbrQ5QFPIK8ughdI5WuPUqhFBdnaXRKbNIW\nIhibPrpU6Qbv8PowFjG3ZRbWhgggBAsNgvv2FfofACpFg1e4ckJN+39YMAk9cgus\nkaZqbu5DdY3BCOMFnNIGdWZ9aZ/xF4hxmFTMrdyNAoGBALw6TWDhDFswAneCD5bb\noTJtUws3WuW20oizCvzhji11qCzo6xNDqrXIqsCwJCmURvHiZVFXN2/qzszuEvF8\n4ywf18uikt7MQ/woCUhlah8MpeHlsgE1EeKsRBTiu60pEkdLRmXomyFvGIyemC27\n3DVUkAf12wzIBRk2xFUNRwz8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-r2qsd@papeleria-el-ahorro-01.iam.gserviceaccount.com",
+  "client_id": "100327360690420936038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-r2qsd%40papeleria-el-ahorro-01.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
